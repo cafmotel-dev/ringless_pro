@@ -114,7 +114,7 @@
         <table border="0" cellpadding="0" cellspacing="0" width="100%" style="max-width: 600px;">
           <tr>
             <td align="center" valign="top" style="padding: 36px 24px;">
-              <a href="https://www.ringless.pro.com" target="_blank" style="display: inline-block;">
+              <a href="https://www.ringless.pro" target="_blank" style="display: inline-block;">
                 <img src="{{ asset('web/images/internet/logo.png') }}" alt="Logo" border="0" width="48" style="display: block; width: 70px; max-width: 100px; min-width: 100px;">
               </a>
             </td>
@@ -196,7 +196,7 @@
           <tr>
             <td align="left" bgcolor="#ffffff" style="padding: 24px; font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px;">
               <p style="margin: 0;">If that doesn't work, copy and paste the following link in your browser:</p>
-              <p style="margin: 0;"><a href="https://ringless.pro.com" target="_blank">https://ringless.pro.com/sign-up</a></p>
+              <p style="margin: 0;"><a href="https://ringless.pro" target="_blank">https://ringless.pro/sign-up</a></p>
             </td>
           </tr>
           <!-- end copy -->

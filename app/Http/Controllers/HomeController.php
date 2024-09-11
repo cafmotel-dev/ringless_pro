@@ -55,7 +55,7 @@ class HomeController extends Controller
             Log::info('contact saved',['contact'=>$contact]);
       // Send an email notification
       Mail::send([], [], function ($message) use ($contact) {
-        $message->to('sales@ringless.pro.com')
+        $message->to('sales@ringless.pro')
                 ->subject('New Contact Form Submission')
                 ->setBody("Name: {$contact->name}\nEmail: {$contact->email}\nPhone: {$contact->phone}\nMessage: {$contact->message}\nSubject: {$contact->subject}");
     });

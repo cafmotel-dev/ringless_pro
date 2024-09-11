@@ -1,6 +1,5 @@
 @extends('web')
 @section('title', 'Best VOIP Phone Services  | Cloud Phone System |Cloud PBX Providers| USA, CANADA')
-
 @section('content')
 
     <!-- page wrapper -->
