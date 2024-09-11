@@ -251,7 +251,7 @@
                 <div class="row">
                     <div class="col-md-6">
                         <div class="pbmit-footer-copyright-text-area">
-                            Copyright  © 2024 <strong>Ringless Pro</strong>. Powered by <a href="https://easify.com" style="color: #007bff;">Easify</a>. All rights reserved.
+                            Copyright  © 2024 <strong>Ringless Pro</strong>. Powered by <a href="https://easify.app" style="color: #007bff;">Easify</a>. All rights reserved.
                         </div>
                     </div>
                     <div class="col-md-6">
