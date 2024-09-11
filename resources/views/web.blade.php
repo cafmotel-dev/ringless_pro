@@ -54,16 +54,12 @@
                             </li>
                             <li>
                                 <i class="pbmit-base-icon-mail-alt"></i>
-                                <a href="mailto:sales@ringless.pro.com">Email: sales@ringless.pro.com</a>
+                                <a href="mailto:sales@ringless.pro">Email: sales@ringless.pro</a>
                             </li>
                         </ul>
                     </div>
                     <div class="pbmit-pre-header-right">
                         <ul class="pbmit-contact-info">
-                            <!-- <li>
-                      <i class="pbmit-base-icon-clock-1"></i> Mon - Sat 8.00 -
-                      18.00, Sun - Closed
-                    </li> -->
                             <li>
                                 <ul class="pbmit-social-links">
                                     <li class="pbmit-social-li pbmit-social-facebook">
@@ -202,7 +198,7 @@
                             <div class="pbmit-footer-contact-info">
                                 <div class="pbmit-content-box">Need support?</div>
                                 <div class="pbmit-contact-box">
-                                    <a href="mailto:sales@ringless.pro.com">sales@ringless.pro.com</a>
+                                    <a href="mailto:sales@ringless.pro">sales@ringless.pro</a>
                                 </div>
                             </div>
                         </div>
@@ -255,8 +251,7 @@
                 <div class="row">
                     <div class="col-md-6">
                         <div class="pbmit-footer-copyright-text-area">
-                            Copyright © 2022 <a href="index.php">Ringless Pro</a>, All Rights
-                            Reserved.
+                            Copyright  © 2024 <strong>Ringless Pro</strong>. Powered by <a href="https://easify.com" style="color: #007bff;">Easify</a>. All rights reserved.
                         </div>
                     </div>
                     <div class="col-md-6">

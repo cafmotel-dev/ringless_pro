@@ -114,7 +114,7 @@
         <table border="0" cellpadding="0" cellspacing="0" width="100%" style="max-width: 600px;">
           <tr>
             <td align="center" valign="top" style="padding: 36px 24px;">
-              <a href="https://www.ringless.pro.com" target="_blank" style="display: inline-block;">
+              <a href="https://www.ringless.pro" target="_blank" style="display: inline-block;">
                
               </a>
             </td>

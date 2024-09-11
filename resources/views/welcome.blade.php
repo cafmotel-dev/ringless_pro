@@ -6,7 +6,9 @@
     /* background-color: var(--pbmit-white-color); */
     background-color: transparent;
 }
-
+.pbmit-pre-header-right{
+    margin-top:17px;
+}
 </style>
 
 

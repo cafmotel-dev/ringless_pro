@@ -49,7 +49,7 @@
                             <div>
                                 <h5>Your Privacy is Important to Us</h5>
                                 <p>
-                                    MobileSphere highly values your privacy and the
+                                    Ringless Pro highly values your privacy and the
                                     confidentiality of your telephone number data. Your name,
                                     telephone number, email address, and the telephone numbers
                                     in your lists are securely stored and maintained with
@@ -65,11 +65,11 @@
                             <div>
                                 <h5>We Do Not Market or Sell Your Information</h5>
                                 <p>
-                                    MobileSphere adheres to a strict policy of not selling or
+                                    Ringless Pro adheres to a strict policy of not selling or
                                     marketing the contact information of our customers. In clear
                                     terms, we do not engage in the sale or marketing of your
                                     name, phone number, email address, or any contact details to
-                                    third parties. Additionally, MobileSphere neither uses nor
+                                    third parties. Additionally, Ringless Pro neither uses nor
                                     sells our customers' lists of phone numbers for internal
                                     purposes or external marketing. Your lists of phone numbers
                                     remain your exclusive property, and you have complete
@@ -77,7 +77,7 @@
                                     your lists at any given time.
                                     <br /><br />
 
-                                    MobileSphere may contact you when you initially use our
+                                    Ringless Pro may contact you when you initially use our
                                     service, and may periodically contact you as a courtesy to
                                     ensure your experience is as good as it can be and to
                                     provide you with service updates. We will provide an opt-out
@@ -88,7 +88,7 @@
                             <div>
                                 <h5>Payment Processing</h5>
                                 <p>
-                                    In order to process your payments, MobileSphere may provide
+                                    In order to process your payments, Ringless Pro may provide
                                     your billing information to our third-party payment
                                     processing vendors such as PayPal, Stripe, and other
                                     electronic payment processing gateways such as credit card
@@ -111,21 +111,21 @@
                                 <p>
                                     If a user decides to use our referral tools to inform a
                                     friend about our website, service, or a special promotion,
-                                    MobileSphere requests you provide the friend's phone number
+                                    Ringless Pro requests you provide the friend's phone number
                                     or email address to send out this specific information.
 
-                                    <br /><br />MobileSphere does not reuse this information to
+                                    <br /><br />Ringless Pro does not reuse this information to
                                     market to the friend/recipient. Attachments are strictly
                                     forbidden and you expressly agree not to add any attachment
-                                    to any correspondence send via the MobileSphere website. You
+                                    to any correspondence send via the Ringless Pro website. You
                                     also agree that you will not use these tools for any other
-                                    purpose but to share this MobileSphere service with others.
+                                    purpose but to share this Ringless Pro service with others.
                                 </p>
                             </div>
                             <div>
                                 <h5>Legal Process/Disclaimer</h5>
                                 <p>
-                                    MobileSphere may disclose personally identifiable
+                                    Ringless Pro may disclose personally identifiable
                                     information or data in response to legal processes,
                                     subpoenas, or requests from law enforcement.
                                 </p>
@@ -133,9 +133,9 @@
                             <div>
                                 <h5>Notification of Changes</h5>
                                 <p>
-                                    MobileSphere reserves the right to modify the provisions of
+                                    Ringless Pro reserves the right to modify the provisions of
                                     this Privacy Statement if necessary. You agree that your
-                                    continued use of the MobileSphere service shall constitute
+                                    continued use of the Ringless Pro service shall constitute
                                     your acceptance of the Privacy Policy as may be amended from
                                     time to time.
                                 </p>
