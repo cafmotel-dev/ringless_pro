@@ -96,8 +96,8 @@
                         <div class="d-flex align-items-center">
                             <div class="site-branding flex-grow-1">
                                 <a href="index.php">
-                                    <img class="logo-img" alt="coworking" src="{{ asset('web/images/internet/logo-white.png')}}" />
-                                    <img class="sticky-logo" alt="coworking" src="{{ asset('web/images/internet/logo.png')}}" />
+                                    <img class="logo-img" alt="coworking" src="{{ asset('web/images/internet/logo-ringless-pro.png')}}" />
+                                    <img class="sticky-logo" alt="coworking" src="{{ asset('web/images/internet/logo-black-ringless.png')}}" />
                                 </a>
                             </div>
                             <div class="site-navigation ml-auto">
@@ -162,7 +162,7 @@
                 </div>
                 <div class="col-md-3 col-sm-12">
                     <div class="pbmit-footer-logo">
-                        <img class="pbmit-main-logo img-fluid" src="{{ asset('web/images/internet/logo-white.png')}}" alt="logo" />
+                        <img class="pbmit-main-logo img-fluid" src="{{ asset('web/images/internet/logo-ringless-pro.png')}}" alt="logo" />
                     </div>
                 </div>
             </div>
